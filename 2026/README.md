@@ -1,6 +1,6 @@
 # The Austrian Tax Book 2026 (English)
 
-The Austrian Federal Ministry of Finance's **official English translation** of *Das Steuerbuch 2026* — the guide to wage tax, income tax and the employee tax assessment (Arbeitnehmerveranlagung) — converted to Markdown, one file per section. 5 chapters below.
+The Austrian Federal Ministry of Finance's **official English translation** of *Das Steuerbuch 2026* — the guide to wage tax, income tax and the employee tax assessment (Arbeitnehmerveranlagung) — converted to Markdown, one file per section. 7 chapters below.
 
 > 📖 Prefer a searchable, mobile-friendly version with a built-in tax calculator? Read the whole book at **[thetax.at/tax-book/2026](https://thetax.at/tax-book/2026)**.
 
@@ -70,10 +70,26 @@ The L 1i supplement: income from employment with no wage tax deducted, cross-bor
 - [Income from employment without wage tax deduction](when-to-fill-form-l1i/income-from-employment-without-wage-tax-deduction.md)
 - [Income from employment obtained from abroad](when-to-fill-form-l1i/income-from-employment-obtained-from-abroad.md)
 
-## Not yet translated for this year
+### VI. [The procedure at the tax office](procedure-at-tax-office/README.md)
 
-- **The procedure at the tax office** — read it now in the [2025 edition](../2025/procedure-at-tax-office/README.md). The 2026 update is in progress.
-- **Other tax benefits** — read it now in the [2025 edition](../2025/other-tax-benefits/README.md). The 2026 update is in progress.
+How the assessment works end to end: filing online via FinanzOnline or on paper, refunds and back-payments, advance payments, appeals (Beschwerde), and paying in instalments.
+
+- [Employee tax assessment (“annual tax declaration”)](procedure-at-tax-office/employee-tax-assessment-annual-tax-declaration.md)
+- [Electronic employee tax assessment (FinanzOnline)](procedure-at-tax-office/electronic-employee-tax-assessment.md)
+- [Employee tax assessment in paper form](procedure-at-tax-office/employee-tax-assessment-in-paper-form.md)
+- [Tax credits, additional tax payments, and advance payments](procedure-at-tax-office/tax-credits-additional-tax-payments-advance-payments.md)
+- [Taxes due on several pensions](procedure-at-tax-office/taxes-due-on-several-pensions.md)
+- [Discretionary assessment of evidence](procedure-at-tax-office/discretionary-assessment-of-evidence.md)
+- [Disclosure pursuant to section 109a EStG](procedure-at-tax-office/disclosure-sec-109a-einkommensteuergesetz.md)
+- [Objection to a tax office decision (Beschwerde)](procedure-at-tax-office/objection-to-tax-office-decision.md)
+- [Payment in instalments and deferred tax payment](procedure-at-tax-office/payment-in-instalments-and-deferred-tax-payment.md)
+
+### VII. [Other tax benefits](other-tax-benefits/README.md)
+
+State-subsidised private provision: the premium-aided retirement scheme and the premium-aided pension scheme.
+
+- [Premium-aided retirement provisions](other-tax-benefits/premium-aided-retirement-provisions.md)
+- [Premium-aided pension scheme](other-tax-benefits/premium-aided-pension-scheme.md)
 
 ---
 

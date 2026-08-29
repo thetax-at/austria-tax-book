@@ -1,0 +1,5 @@
+# E. Taxes due on several pensions
+
+## How are several pensions taxed?
+
+The joint taxation of (several) statutory pensions, federal-employee pensions, retirement benefits from a previous employment relationship with a federal province, or pensions from Austrian pension funds is mandatory in order to avoid additional tax payments and advance payments. If, for example, you receive a federal or regional pension, as well as a widow's/widower's pension from the pension insurance agency for employees, the wage tax due on the two remunerations is withheld from the higher pension. If you also receive a company pension in addition to your pension under the Austrian General Social Security Act, these are not required to be taxed jointly. In this case, the former employer can take over the payment and taxation of your pension under the Austrian General Social Security Act. However, the employer cannot be obliged to do so. In the event of overlapping payments from company group insurance schemes, the pension insurance institute and/or the pension payment agency shall carry out joint taxation.

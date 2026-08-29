@@ -26,10 +26,12 @@ procedure at the tax office.
 | Year | Status | Chapters | Start reading |
 | ---- | ------ | -------- | ------------- |
 | **[2025](2025/README.md)** | Complete | 7 of 7 | [2025 contents](2025/README.md) · [online](https://thetax.at/tax-book/2025) |
-| **[2026](2026/README.md)** | In progress | 5 of 7 | [2026 contents](2026/README.md) · [online](https://thetax.at/tax-book/2026) |
+| **[2026](2026/README.md)** | Complete | 7 of 7 | [2026 contents](2026/README.md) · [online](https://thetax.at/tax-book/2026) |
 
 Each year is a self-contained snapshot: figures, tax brackets and credit amounts change
-annually, so always read the edition that matches the tax year you are filing for.
+annually, so always read the edition that matches the **tax year** you are filing for —
+not the year you file in. Doing your assessment in 2026 for income earned in 2025? Use the
+**2025** edition.
 
 ---
 
@@ -45,15 +47,16 @@ its full section list for each year.
 | III | **Wage tax computation by your employer** | Commuter allowance, tax-free employer payments, per-diems, the 13th/14th salary, overtime & night-work supplements | [read](2025/wage-tax-calculation-by-employer/README.md) | [read](2026/wage-tax-calculation-by-employer/README.md) |
 | IV | **What claims may be asserted in the employee tax assessment?** | Special expenses (*Sonderausgaben*), income-related expenses (*Werbungskosten*), home office, extraordinary burdens, disability costs, Family Bonus Plus | [read](2025/employee-tax-assessment-claims/README.md) | [read](2026/employee-tax-assessment-claims/README.md) |
 | V | **When should Form L 1i be filled in?** | Employment income with no wage tax deducted, cross-border commuters, foreign employment income | [read](2025/when-to-fill-form-l1i/README.md) | [read](2026/when-to-fill-form-l1i/README.md) |
-| VI | **The procedure at the tax office** | Filing via FinanzOnline or on paper, refunds and back-payments, advance payments, appeals (*Beschwerde*), instalments | [read](2025/procedure-at-tax-office/README.md) | _in progress_ |
-| VII | **Other tax benefits** | The premium-aided retirement scheme and premium-aided pension scheme | [read](2025/other-tax-benefits/README.md) | _in progress_ |
+| VI | **The procedure at the tax office** | Filing via FinanzOnline or on paper, refunds and back-payments, advance payments, appeals (*Beschwerde*), instalments | [read](2025/procedure-at-tax-office/README.md) | [read](2026/procedure-at-tax-office/README.md) |
+| VII | **Other tax benefits** | The premium-aided retirement scheme and premium-aided pension scheme | [read](2025/other-tax-benefits/README.md) | [read](2026/other-tax-benefits/README.md) |
 
 ---
 
 ## Popular topics
 
 Direct links to the questions people search for most. Each also has a page on
-[thetax.at](https://thetax.at/tax-book) with worked examples.
+[thetax.at](https://thetax.at/tax-book) with worked examples. Links below point to the
+**2025** edition — change `/2025/` to `/2026/` in the path for the 2026 text.
 
 - **[Tax scale & tax brackets](2025/tax-scales-and-tax-deductions/tax-scale.md)** — how much income tax you pay in Austria
 - **[Tax credits (*Absetzbeträge*)](2025/tax-scales-and-tax-deductions/tax-deductions.md)** — sole-earner, single-parent, commuter and pensioner credits

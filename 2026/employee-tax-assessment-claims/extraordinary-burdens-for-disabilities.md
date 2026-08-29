@@ -108,3 +108,41 @@ spouse's/partner's income is below €7,284 (€7,411 in 2026).
 
 Please use Form E 30 to claim disability-related tax-exempt amounts pursuant to section 35 Income Tax Act
 for the spouse/partner directly from the agency paying out the respective pension.
+
+---
+
+#### Overview of possible tax-exempt amounts for disabled persons
+
+**Lump sums, depending on whether nursing care allowance is received**
+
+| Tax-exempt amount | Disabled persons not receiving nursing care allowance | Disabled persons receiving nursing care allowance |
+|---|---|---|
+| Lump-sum tax-exempt amount for disability levels of 25% and above | yes | no (if nursing care allowance is received throughout a year) |
+| Lump-sum tax-exempt amount for diets | yes | yes |
+| Tax-exempt amount for own motor vehicle for persons with walking disabilities | yes | yes |
+| Tax-exempt amount for trips by taxi (if no own motor vehicle) for persons with walking disabilities | yes | yes |
+| Expenses for appliances for disabled persons and costs of therapeutic treatment | yes | yes |
+
+**Tax benefits available to the spouse/partner bearing the disability-related costs, by relationship type and income**
+
+| Relationship of the person bearing the costs | Special expenses (voluntary continued insurance, church-tax payments) | Single-earner tax credit | Extraordinary burdens with deductibles | Reduced deductibles in case of extraordinary burdens | Extraordinary burdens incurred by disabled persons (without deductibles) |
+|---|---|---|---|---|---|
+| Spouse¹ — income up to €7,284 | Yes | No | Yes⁴ | Yes | Yes |
+| Spouse¹ — income above €7,284 | Yes | No | Yes⁴ | No | No⁵ |
+| Spouse¹ with child² — income up to €7,284 | Yes | Yes | Yes⁴ | Yes | Yes |
+| Spouse¹ with child² — income above €7,284 | Yes | No | Yes⁴ | No | No⁵ |
+| Civil partner¹ — income up to €7,284 | Yes | No | Yes⁴ | Yes | Yes |
+| Civil partner¹ — income above €7,284 | Yes | No | Yes⁴ | No | No⁵ |
+| Civil partner¹ with child² — income up to €7,284 | Yes | Yes | Yes⁴ | Yes | Yes |
+| Civil partner¹ with child² — income above €7,284 | Yes | No | Yes⁴ | No | No⁵ |
+| Domestic partnership³ — income up to €7,284 | No | No | Yes⁴ | No | No⁶ |
+| Domestic partnership³ — income above €7,284 | No | No | Yes⁴ | No | No⁶ |
+| Domestic partnership³ with child² — income up to €7,284 | Yes | Yes | Yes⁴ | Yes | Yes |
+| Domestic partnership³ with child² — income above €7,284 | Yes | No | Yes⁴ | No | No⁵ |
+
+¹ Registered partner for more than six months in the calendar year and not separated on a permanent basis.
+² If entitled to the child deduction for more than six months in the calendar year.
+³ Living in a domestic partnership for more than six months per calendar year.
+⁴ As far as the medical expenses do not exceed the spouse's/partner's fiscal subsistence minimum (€13,308).
+⁵ Disability-related expenses where the spouse's/partner's income is between €7,284 and €13,308 can be claimed with a deductible.
+⁶ If the amount remains below the spouse's/partner's fiscal subsistence minimum (€13,308), the disability-related expenses can be claimed with a deductible.

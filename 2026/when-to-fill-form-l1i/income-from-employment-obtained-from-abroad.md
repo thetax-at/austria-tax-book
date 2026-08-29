@@ -201,5 +201,3 @@ The table below covers standard cases related to income from employment from nei
 | Slovakia | Austria | — | Full taxation | Full taxation | Exemption with progression proviso |
 | Czech Republic | Abroad | — | Exemption | Exemption | Taxation |
 | Czech Republic | Austria | — | Full taxation | Full taxation | Exemption with progression proviso |
-
-\* "Cross-border workers" pension treatment is only specifically listed in the source table for Germany, Liechtenstein and Italy, where special cross-border commuter rules apply (see page 8); a dash indicates the standard pension categories apply instead.
