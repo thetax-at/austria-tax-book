@@ -134,14 +134,14 @@ repo.
 
 ## License
 
-- **Text (English translation and all content):** © Republic of Austria — Federal
-  Ministry of Finance. Published for public information and reproduced here unchanged.
-  Source: <https://www.bmf.gv.at/en/publications.html>
-- **Markdown conversion, per-section file layout and the index/README files:** contributed
-  by *thetax.at* under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Markdown conversion, per-section file layout and the index/README files:** authored by
+  *thetax.at* and released under the [MIT License](LICENSE).
+- **Text of The Tax Book itself (the English translation and all substantive content):**
+  © Republic of Austria — Federal Ministry of Finance, published for public information and
+  reproduced here unchanged. Source: <https://www.bmf.gv.at/en/publications.html>. MIT does
+  not apply to it; if you redistribute the tax content, credit the BMF as author.
 
-If you redistribute the tax content, credit the BMF as author. See [NOTICE.md](NOTICE.md)
-for details.
+See [NOTICE.md](NOTICE.md) for details.
 
 ---
 

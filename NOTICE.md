@@ -32,7 +32,7 @@ official BMF PDF disagree, **the BMF PDF is correct**.
 | Layer | Rights holder | Terms |
 | ----- | ------------- | ----- |
 | The Tax Book — text, translation, structure, all substantive content | © Republic of Austria — Federal Ministry of Finance | Published for public information; reproduced here unchanged. Credit the BMF as author on redistribution. |
-| Markdown conversion, per-section file layout, index / README files | © thetax.at contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Markdown conversion, per-section file layout, index / README files | © thetax.at contributors | [MIT License](LICENSE) |
 
 ## Disclaimer
 
