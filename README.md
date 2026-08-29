@@ -1,9 +1,10 @@
 # The Austrian Tax Book (*Das Steuerbuch*) — English Edition · 2025 & 2026
 
-A free, plain-English edition of **the Austrian Tax Book** — *Das Steuerbuch*, the annual
-guide to **wage tax, income tax and the employee tax assessment
+The **official English translation** of the Austrian Tax Book — *Das Steuerbuch*, the
+annual guide to **wage tax, income tax and the employee tax assessment
 (*Arbeitnehmerveranlagung*)** published by the Austrian Federal Ministry of Finance
-(*Bundesministerium für Finanzen, BMF*).
+(*Bundesministerium für Finanzen, BMF*) — converted to Markdown and split into one file
+per section for easy reading, searching and linking.
 
 If you work in Austria and file (or are thinking about filing) an employee tax assessment
 to get a refund, this is the reference that explains **how Austrian income tax actually
@@ -98,40 +99,49 @@ Direct links to the questions people search for most. Each also has a page on
 
 The original work is ***Das Steuerbuch*** (*Tipps zur Arbeitnehmer­veranlagung*),
 published each year by the **Austrian Federal Ministry of Finance (BMF)** and released for
-public information. The BMF also publishes an official English translation, *The Tax Book*.
+public information. The **English text in this repository is the BMF's own official
+translation** — see the Ministry's publications page:
 
-This repository contains an **independent, working English edition**, reorganised into one
-file per section for easy reading, searching and linking. It is maintained by
-**[thetax.at](https://thetax.at)**.
+> **https://www.bmf.gv.at/en/publications.html**
 
-> **Not official and not tax advice.** This is an unofficial edition provided for general
-> information. Wording has been edited for clarity and may differ from the BMF text.
-> Amounts and rules change every year and individual circumstances vary — for a binding
-> answer, consult the [original BMF publication](https://www.bmf.gv.at/services/publikationen.html)
-> or a *Steuerberater*.
+The only changes made here by **[thetax.at](https://thetax.at)** are **format**: the
+official document has been converted from PDF to Markdown and split into one file per
+section. The wording is the BMF's, not ours.
+
+> **Not tax advice, and formatting is not authoritative.** The PDF-to-Markdown conversion
+> can introduce errors (tables, footnotes, paragraph references). Tax figures, thresholds
+> and credit amounts change every year and individual circumstances vary — for anything
+> binding, use the [original BMF publication](https://www.bmf.gv.at/en/publications.html)
+> or consult a *Steuerberater*.
 
 ---
 
 ## Corrections & contributions
 
-Found a mistake, an outdated figure, or an awkward translation?
+Spotted a **conversion error** — a broken table, a dropped footnote, a garbled paragraph
+reference, a wrong heading level?
 
-- **[Open an issue](https://github.com/thetax-at/tax-book/issues)** describing the
-  problem and the chapter/section, or
-- **Open a pull request** editing the relevant `.md` file. Keep changes focused on
-  accuracy and clarity; cite the BMF paragraph (*Randziffer / Rz*) where possible.
+- **[Open an issue](https://github.com/thetax-at/tax-book/issues)** naming the
+  chapter/section and what looks wrong, or
+- **Open a pull request** fixing the relevant `.md` file so it matches the official BMF
+  PDF.
+
+Please **do not rewrite the wording** — the text must stay faithful to the BMF's official
+translation. Substantive tax questions belong with the BMF or a *Steuerberater*, not this
+repo.
 
 ---
 
 ## License
 
-- **Underlying content:** © Austrian Federal Ministry of Finance, published for public
-  information. Redistributed here for reference.
-- **This English edition — translation, editing and curation:** licensed under
-  [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-  Attribute to *thetax.at* with a link back to this repository.
+- **Text (English translation and all content):** © Republic of Austria — Federal
+  Ministry of Finance. Published for public information and reproduced here unchanged.
+  Source: <https://www.bmf.gv.at/en/publications.html>
+- **Markdown conversion, per-section file layout and the index/README files:** contributed
+  by *thetax.at* under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-See [NOTICE.md](NOTICE.md) for details.
+If you redistribute the tax content, credit the BMF as author. See [NOTICE.md](NOTICE.md)
+for details.
 
 ---
 

@@ -1,6 +1,6 @@
 # The Austrian Tax Book 2025 (English)
 
-Plain-English edition of *Das Steuerbuch 2025* — the Austrian Federal Ministry of Finance guide to wage tax, income tax and the employee tax assessment (Arbeitnehmerveranlagung). 7 chapters below.
+The Austrian Federal Ministry of Finance's **official English translation** of *Das Steuerbuch 2025* — the guide to wage tax, income tax and the employee tax assessment (Arbeitnehmerveranlagung) — converted to Markdown, one file per section. 7 chapters below.
 
 > 📖 Prefer a searchable, mobile-friendly version with a built-in tax calculator? Read the whole book at **[thetax.at/tax-book/2025](https://thetax.at/tax-book/2025)**.
 
@@ -93,4 +93,4 @@ State-subsidised private provision: the premium-aided retirement scheme and the 
 
 ---
 
-Maintained by [thetax.at](https://thetax.at) — free Austrian tax calculators and guides. See the [repository README](../README.md) for licensing and how to contribute a correction.
+Text © Austrian Federal Ministry of Finance ([bmf.gv.at/en/publications.html](https://www.bmf.gv.at/en/publications.html)). Markdown conversion by [thetax.at](https://thetax.at). See the [repository README](../README.md) for licensing and how to report a conversion error.

@@ -2,43 +2,47 @@
 
 ## Original work
 
-The source material is **_Das Steuerbuch_** (subtitle: _Tipps zur
-Arbeitnehmerveranlagung_), published annually by the
+The content of this repository is **_The Tax Book_ (_Das Steuerbuch_ — _Tipps zur
+Arbeitnehmerveranlagung_)**, published annually by the
 
 > **Bundesministerium für Finanzen (BMF)**
 > Austrian Federal Ministry of Finance
 > <https://www.bmf.gv.at>
 
-as a free public-information publication. The Ministry also issues an official English
-translation titled **_The Tax Book_**. The 2025 and 2026 editions were used as the basis
-for the text in this repository.
+as a free public-information publication. The English text reproduced here is the
+**BMF's own official English translation**, taken from the Ministry's publications page:
 
-## What this repository is
+> **https://www.bmf.gv.at/en/publications.html**
 
-An **independent English edition**, maintained by **[thetax.at](https://thetax.at)**, that:
+The 2025 and 2026 English editions are included.
 
-- reorganises the book into one Markdown file per section, and
-- lightly edits wording for clarity and readability.
+## What thetax.at changed
 
-It is **not** an official BMF publication and has no legal force. Where wording here
-differs from the official BMF text, the official text prevails. Tax figures, thresholds
-and credit amounts are specific to the stated tax year.
+Nothing in the wording. [thetax.at](https://thetax.at) only changed the **format**:
+
+- converted the official PDF to Markdown, and
+- split each edition into one file per section, with `README.md` indexes for navigation.
+
+The conversion is best-effort. Tables, footnotes and paragraph references
+(_Randziffern / Rz_) may not have survived perfectly. Where this repository and the
+official BMF PDF disagree, **the BMF PDF is correct**.
 
 ## Licensing
 
 | Layer | Rights holder | Terms |
 | ----- | ------------- | ----- |
-| Underlying tax content / structure of _Das Steuerbuch_ | © Republic of Austria — Federal Ministry of Finance | Published for public information; redistributed here for reference. |
-| English translation, editorial changes, per-section reorganisation, indexes and READMEs | © thetax.at contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-
-If you reuse this edition, attribute it to **thetax.at** with a link to this repository.
+| The Tax Book — text, translation, structure, all substantive content | © Republic of Austria — Federal Ministry of Finance | Published for public information; reproduced here unchanged. Credit the BMF as author on redistribution. |
+| Markdown conversion, per-section file layout, index / README files | © thetax.at contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## Disclaimer
 
 This material is provided for general information only and is **not tax, legal or
-financial advice**. For a binding assessment of your situation, consult the original BMF
-publication or a licensed Austrian tax adviser (_Steuerberater_).
+financial advice**. Tax figures and rules are specific to the stated year and to
+individual circumstances. For a binding answer, use the official BMF publication at
+<https://www.bmf.gv.at/en/publications.html> or consult a licensed Austrian tax adviser
+(_Steuerberater_).
 
 ## Contact
 
-Corrections and questions: open an issue on GitHub, or see <https://thetax.at>.
+To report a conversion error, open an issue on GitHub. For anything else, see
+<https://thetax.at>.
